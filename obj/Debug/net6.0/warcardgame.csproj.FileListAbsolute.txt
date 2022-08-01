@@ -1,0 +1,15 @@
+/Users/mohrd2/apps-csharp/warcardgame/obj/Debug/net6.0/warcardgame.csproj.AssemblyReference.cache
+/Users/mohrd2/apps-csharp/warcardgame/obj/Debug/net6.0/warcardgame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohrd2/apps-csharp/warcardgame/obj/Debug/net6.0/warcardgame.AssemblyInfoInputs.cache
+/Users/mohrd2/apps-csharp/warcardgame/obj/Debug/net6.0/warcardgame.AssemblyInfo.cs
+/Users/mohrd2/apps-csharp/warcardgame/obj/Debug/net6.0/warcardgame.csproj.CoreCompileInputs.cache
+/Users/mohrd2/apps-csharp/warcardgame/bin/Debug/net6.0/warcardgame
+/Users/mohrd2/apps-csharp/warcardgame/bin/Debug/net6.0/warcardgame.deps.json
+/Users/mohrd2/apps-csharp/warcardgame/bin/Debug/net6.0/warcardgame.runtimeconfig.json
+/Users/mohrd2/apps-csharp/warcardgame/bin/Debug/net6.0/warcardgame.dll
+/Users/mohrd2/apps-csharp/warcardgame/bin/Debug/net6.0/warcardgame.pdb
+/Users/mohrd2/apps-csharp/warcardgame/obj/Debug/net6.0/warcardgame.dll
+/Users/mohrd2/apps-csharp/warcardgame/obj/Debug/net6.0/refint/warcardgame.dll
+/Users/mohrd2/apps-csharp/warcardgame/obj/Debug/net6.0/warcardgame.pdb
+/Users/mohrd2/apps-csharp/warcardgame/obj/Debug/net6.0/warcardgame.genruntimeconfig.cache
+/Users/mohrd2/apps-csharp/warcardgame/obj/Debug/net6.0/ref/warcardgame.dll
